@@ -89,15 +89,3 @@ $(document).on("click", ".city-btn", function () {
     let city = $(this).attr("data-name");
     displayWeatherInfo(city);
 });
-© 2020 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
