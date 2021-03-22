@@ -27,7 +27,7 @@ This project is created with:
 ## Screenshot
 
 ![project screenshot](assets/weatherss1.jpg)
-Link to my deployed github page: https://vpickard707.github.io/weather-dash/
+Link to my deployed github page: https://vpickard707.github.io/Weather-Dash/
 
 # Credits
 
